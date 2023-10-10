@@ -1,8 +1,8 @@
 {
-  "name": "bite-portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://BITE-team-developers.github.io/bite-portfolio",
+  "homepage": "https://BITE-team-developers.github.io/portfolio",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
